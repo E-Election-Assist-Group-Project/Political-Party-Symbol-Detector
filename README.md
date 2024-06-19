@@ -12,7 +12,7 @@
 
 
 ## Deployement 
-`Deployed at-` https://hf.space/gradioiframe/Sa-m/YoloV5-Party-Symbol-Detector-V1/+
+`Deployed at-` [https://hf.space/gradioiframe/Sa-m/YoloV5-Party-Symbol-Detector-V1/+](https://sa-m-yolov5-party-symbol-detector-v1.hf.space/)
 
 ## References
 - https://github.com/ultralytics/yolov5
